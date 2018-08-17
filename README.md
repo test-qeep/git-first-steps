@@ -3,6 +3,7 @@
 ## Работа с Linux
 
 * Чтобы создать папку с именем `folder-name`, набираем в командной строке `mkdirfolder-name` 
+* Чтобы зайти в папку `folder-name`, набрать `cd folder-name`
 
 Codeblock:
 
